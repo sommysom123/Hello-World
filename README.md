@@ -1,3 +1,3 @@
 # Hello-World
-practice programming
+Practice programming
 I am trying to learn programming for school and personal use.
